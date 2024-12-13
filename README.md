@@ -2,5 +2,8 @@
 Neural Networks from Scratch
 
 Coding a Neural Network library from Scratch 
+
 Reference - 
-Neural Network from Scratch <a src='https://nnfs.io'>
+----------------
+
+1. [Neural Network from Scratch](https://nnfs.io)
